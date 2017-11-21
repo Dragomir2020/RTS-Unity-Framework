@@ -3,6 +3,7 @@ Basic setup to link players in unity
 ## Features
 - Syncs transform
 - Initializes camera on player for a first person view
+- Only creates camera and audio object for local player
 - Gives each player authority over their player object
 - Tested on multiple build platforms and communicating through NAT.
 ## TODO
