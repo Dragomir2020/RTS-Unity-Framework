@@ -9,3 +9,4 @@ Basic setup to link players in unity
 ## TODO
 - In the future I will use this to link player movement in a multiplayer game or VR chat room
 - I need to get better understanding of NetworkAnimator, so animations can by linked over the network also.
+-
